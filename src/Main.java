@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Added Branch");
         System.out.println("Added from github remote location Branch");
         System.out.println("Added from github remote location Branch with commit message");
+        System.out.println("intelligi has merged,and new line made at github");
     }
 }
