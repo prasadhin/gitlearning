@@ -7,5 +7,6 @@ public class Main {
         System.out.println("modeified record after merge");
         System.out.println("Added from github remote location Branch");
         System.out.println("Added from github remote location Branch with commit message");
+        System.out.println("intelligi has merged,and new line made at github");
     }
 }
